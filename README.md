@@ -1,4 +1,4 @@
-# PSUninstall
+# PSSearch&Uninstall
 
 This script will search for an application and will prompt user to proceed with the uninstall.
 
