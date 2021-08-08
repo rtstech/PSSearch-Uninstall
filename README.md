@@ -2,7 +2,10 @@
 
 This script will search for an application and will prompt user to proceed with the uninstallation.
 
-When the script is ran, user is asked to enter Applicaiton name to search and ccomputer csv file. If the application is found script will list the application and will ask user to go ahead with uninstall.
+The script will ask the user to enter the Application name and CSV file which holds the list of computers. If the application is found, the script will list the application details. 
 
-This script assums PS remoting is enabled on the remote computers.
+Then the user will be provided with a choice of Yes or No, if Yes is selected application will be uninstalled on whereas No will stop the process.
+
+This script assumes PS remoting is enabled on the remote computers.
+
 
